@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConn": "AccountEndpoint=https://cosmoscunademo.documents.azure.com:443/;AccountKey=77uJ4yFv7UscsIy3mhWK3fpSRHw0BO0vsd7pnCmgIqSUlvmJ3r5F5JQCoNDkwU7ZPHBiIsTozj6e42qrioS8iw==;"
+  },
+  "ConnectionStrings": {
+    "CosmosDBEndpointURI": "https://cosmoscunademo.documents.azure.com:443/",
+    "PrimaryKey": "77uJ4yFv7UscsIy3mhWK3fpSRHw0BO0vsd7pnCmgIqSUlvmJ3r5F5JQCoNDkwU7ZPHBiIsTozj6e42qrioS8iw==",
+    "DatabaseName": "DemoStatus"
+  }
+}
